@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#topo {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo {
+   width: 20%;
+   display: flex;
+   justify-content: center;
+}
+#logo img {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+nav {
+    width: 80%;
+}
+.menu {
+    display: flex;
+    justify-content: flex-end;
+}
+.menu li {
+    margin-right: 2%;
+    
+}
+.menu a {
+    color: white;
+}
+#principal {
+    background-color: white;
+    text-align: center;
+}
+#principal img {
+    width: 80%;
+    height: ;
+    border-radius: 20px;
+}
+#rodape {
+    background-color: black;
+    height: 50px;
+}
+#infor {
+    color: white;
+    align-items: center;
+}
