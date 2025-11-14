@@ -92,8 +92,6 @@ nav {
     justify-content: space-between;
 }
 #icons {
-    width: 50%;
-    text-align: left;
     margin: 2%;
 }
 #icons a {
@@ -105,8 +103,6 @@ nav {
 }
 #infor {
     color: white;
-    width: 50%;
-    height: auto;
-    text-align: right;
     margin: 2%;
 }
+
